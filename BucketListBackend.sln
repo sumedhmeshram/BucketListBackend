@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketList.API", "BucketList.API\BucketList.API.csproj", "{16449DD0-BFA9-49C7-83B7-A6D4EA3A1894}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketList.Service", "BucketList.Service\BucketList.Service.csproj", "{28D150A6-E01C-4B80-AEA6-A78352539F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketList.Repository", "BucketList.Repository\BucketList.Repository.csproj", "{ADE4A07D-F3FC-42F2-9392-6CB1B14A5413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketList.ViewModel", "BucketList.ViewModel\BucketList.ViewModel.csproj", "{8D3066BB-AE93-44ED-9EC7-0685D24291CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketList.Entity", "BucketList.Entity\BucketList.Entity.csproj", "{65E03D66-C61B-47FA-86F7-632E8FD36BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BucketList.Common", "BucketList.Common\BucketList.Common.csproj", "{6FC03AE5-6709-4E67-B626-E5B0E5E7794D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16449DD0-BFA9-49C7-83B7-A6D4EA3A1894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16449DD0-BFA9-49C7-83B7-A6D4EA3A1894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16449DD0-BFA9-49C7-83B7-A6D4EA3A1894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16449DD0-BFA9-49C7-83B7-A6D4EA3A1894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28D150A6-E01C-4B80-AEA6-A78352539F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D150A6-E01C-4B80-AEA6-A78352539F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D150A6-E01C-4B80-AEA6-A78352539F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D150A6-E01C-4B80-AEA6-A78352539F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE4A07D-F3FC-42F2-9392-6CB1B14A5413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE4A07D-F3FC-42F2-9392-6CB1B14A5413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE4A07D-F3FC-42F2-9392-6CB1B14A5413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE4A07D-F3FC-42F2-9392-6CB1B14A5413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D3066BB-AE93-44ED-9EC7-0685D24291CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D3066BB-AE93-44ED-9EC7-0685D24291CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D3066BB-AE93-44ED-9EC7-0685D24291CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D3066BB-AE93-44ED-9EC7-0685D24291CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E03D66-C61B-47FA-86F7-632E8FD36BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E03D66-C61B-47FA-86F7-632E8FD36BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E03D66-C61B-47FA-86F7-632E8FD36BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E03D66-C61B-47FA-86F7-632E8FD36BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC03AE5-6709-4E67-B626-E5B0E5E7794D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC03AE5-6709-4E67-B626-E5B0E5E7794D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC03AE5-6709-4E67-B626-E5B0E5E7794D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC03AE5-6709-4E67-B626-E5B0E5E7794D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C747F9D5-86D0-49D2-8DF1-6F3AED31AF2C}
+	EndGlobalSection
+EndGlobal
